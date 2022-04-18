@@ -16,12 +16,12 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 10 April 2022 - To: 17 April 2022
 
-JavaScript   2 hrs 26 mins   ███████████████░░░░░░░░░░   59.75 %
-JSON         55 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
-TypeScript   34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+JavaScript   1 hr 29 mins    ███████████████▓░░░░░░░░░   62.08 %
+TypeScript   27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.10 %
+JSON         19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Other        6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
 ```
 
 <!--END_SECTION:waka-->
