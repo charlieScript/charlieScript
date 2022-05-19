@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about anything
 - 📫 How to reach me: gozione3@gmail.com
 - 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: i have not drank coffee, like ever
+- ⚡ Fun fact: 
 <!--START_SECTION:waka-->
 
 ```text
