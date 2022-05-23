@@ -16,13 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 May 2022 - To: 20 May 2022
+From: 15 May 2022 - To: 22 May 2022
 
-TypeScript   10 hrs 53 mins  ██████████████████░░░░░░░   71.82 %
-JavaScript   2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-HTML         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
-JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+TypeScript   9 hrs 50 mins   ███████████████████░░░░░░   76.43 %
+JavaScript   1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 %
+HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+YAML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
