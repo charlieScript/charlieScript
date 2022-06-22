@@ -16,11 +16,11 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 June 2022 - To: 20 June 2022
+From: 14 June 2022 - To: 21 June 2022
 
-Docker       36 mins         ████████████▓░░░░░░░░░░░░   50.55 %
-TypeScript   34 mins         ████████████░░░░░░░░░░░░░   47.50 %
-JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Docker       36 mins         ██████████████████████░░░   87.93 %
+TypeScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
