@@ -16,11 +16,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 June 2022 - To: 21 June 2022
-
-Docker       36 mins         ██████████████████████░░░   87.93 %
-TypeScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
