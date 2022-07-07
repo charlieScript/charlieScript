@@ -16,7 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 29 June 2022 - To: 06 July 2022
+
+TypeScript   1 hr 49 mins    ████████████████▓░░░░░░░░   66.81 %
+HTML         39 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+C#           12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
