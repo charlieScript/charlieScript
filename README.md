@@ -16,12 +16,12 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 July 2022 - To: 16 July 2022
+From: 10 July 2022 - To: 17 July 2022
 
-TypeScript   9 hrs 24 mins   █████████████████▒░░░░░░░   68.85 %
-C#           3 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   9 hrs 24 mins   ██████████████████░░░░░░░   71.51 %
+C#           3 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
