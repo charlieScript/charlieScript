@@ -16,13 +16,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 July 2022 - To: 27 July 2022
-
-TypeScript   8 hrs 26 mins   ███████████████████████░░   92.16 %
-JavaScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
