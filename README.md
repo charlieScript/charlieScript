@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 September 2022 - To: 09 September 2022
+From: 03 September 2022 - To: 10 September 2022
 
 TypeScript   14 hrs 4 mins   █████████████████░░░░░░░░   67.83 %
 JSON         3 hrs 5 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
