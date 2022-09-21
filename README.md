@@ -16,14 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 September 2022 - To: 18 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-TypeScript   20 hrs 42 mins  ██████████████████████▓░░   90.05 %
-JSON         1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-HTML         36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Bash         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+TypeScript   21 hrs 14 mins  ██████████████████████░░░   88.47 %
+JSON         1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+HTML         34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+SQL          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Git Config   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
