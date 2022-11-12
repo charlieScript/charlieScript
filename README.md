@@ -16,9 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 November 2022 - To: 09 November 2022
+From: 03 November 2022 - To: 10 November 2022
 
-C#   0 secs          █████████████████████████   100.00 %
+CSS          25 mins         ███████████████████░░░░░░   76.51 %
+CSHTML       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+HTML         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+TypeScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+C#           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
