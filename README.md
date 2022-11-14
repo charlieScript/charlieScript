@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 November 2022 - To: 11 November 2022
+From: 05 November 2022 - To: 12 November 2022
 
 TypeScript   2 hrs           ███████████████████▓░░░░░   78.72 %
 CSS          25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
