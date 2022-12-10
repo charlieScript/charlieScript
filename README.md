@@ -16,14 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-TypeScript   29 hrs 48 mins  ███████████████▓░░░░░░░░░   62.15 %
-CSHTML       10 hrs 27 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
-JavaScript   6 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-C#           1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+TypeScript   28 hrs 19 mins  ████████████▓░░░░░░░░░░░░   51.13 %
+CSHTML       16 hrs 55 mins  ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+JavaScript   8 hrs 6 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+C#           1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+CSS          35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
