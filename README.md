@@ -16,14 +16,14 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-JavaScript   22 hrs 3 mins   █████████████████░░░░░░░░   68.62 %
-TypeScript   8 hrs 54 mins   ███████░░░░░░░░░░░░░░░░░░   27.70 %
-Bash         33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript   21 hrs 55 mins  ██████████████████░░░░░░░   71.45 %
+TypeScript   7 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.98 %
+Bash         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+HTML         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 CSS          8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
