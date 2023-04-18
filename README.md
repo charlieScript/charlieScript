@@ -16,7 +16,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 April 2023 - To: 15 April 2023
+From: 09 April 2023 - To: 16 April 2023
 
 TypeScript   13 hrs 5 mins   ██████████████████░░░░░░░   71.35 %
 JavaScript   3 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.60 %
