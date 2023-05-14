@@ -16,13 +16,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2023 - To: 11 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
-TypeScript   10 hrs 26 mins  █████████████████████▒░░░   85.26 %
-JavaScript   1 hr 19 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+TypeScript   9 hrs 38 mins   ██████████████████████▓░░   91.03 %
+JavaScript   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
