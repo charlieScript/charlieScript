@@ -32,7 +32,7 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
 TypeScript        16 hrs 6 mins   █████████████████████░░░░   84.34 %
 Python            1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
