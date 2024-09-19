@@ -32,13 +32,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-TypeScript        10 hrs 48 mins  ██████████████████░░░░░░░   71.82 %
-Python            1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 %
-JavaScript        58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Protocol Buffer   49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-Bash              34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+TypeScript        9 hrs 1 min     █████████████████░░░░░░░░   67.75 %
+Python            1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.04 %
+Bash              57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+Protocol Buffer   39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+JavaScript        36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
 ```
 
 <!--END_SECTION:waka-->
