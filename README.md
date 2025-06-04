@@ -32,13 +32,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 May 2025 - To: 01 June 2025
+From: 26 May 2025 - To: 02 June 2025
 
-TypeScript        13 hrs 41 mins  ██████████████████████▓░░   91.08 %
-JavaScript        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Bash              33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-JSON              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript        19 hrs 1 min    ███████████████████████▒░   93.29 %
+JavaScript        39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Bash              20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+JSON              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
