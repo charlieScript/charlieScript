@@ -32,13 +32,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Python       20 hrs 41 mins  ███████████████░░░░░░░░░░   59.80 %
-TypeScript   7 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
-Other        2 hrs 19 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
-Bash         2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-Markdown     35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Python                     23 hrs 26 mins  ███████████████▒░░░░░░░░░   61.72 %
+TypeScript                 10 hrs 43 mins  ███████░░░░░░░░░░░░░░░░░░   28.26 %
+Bash                       1 hr 52 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Other                      37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+HTML                       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
