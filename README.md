@@ -32,13 +32,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2026 - To: 26 April 2026
+From: 20 April 2026 - To: 27 April 2026
 
-TypeScript                 4 hrs 5 mins          ████████░░░░░░░░░░░░░░░░░   31.66 %
-Python                     1 hr 54 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-YAML                       1 hr 40 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
-Markdown                   1 hr 25 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
-Bash                       1 hr 24 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+TypeScript                 5 hrs 43 mins         ████████▒░░░░░░░░░░░░░░░░   32.83 %
+Markdown                   4 hrs 12 mins         ██████░░░░░░░░░░░░░░░░░░░   24.09 %
+Python                     1 hr 55 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+YAML                       1 hr 49 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.44 %
+Bash                       1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
 ```
 
 <!--END_SECTION:waka-->
