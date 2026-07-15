@@ -32,13 +32,13 @@ Here are some ideas to get you started: -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2026 - To: 12 July 2026
+From: 06 July 2026 - To: 13 July 2026
 
-TypeScript        19 hrs 5 mins         ███████████████▓░░░░░░░░░   62.52 %
-Markdown          4 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Bash              3 hrs 8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.32 %
-Other             1 hr 51 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
-Text              39 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+TypeScript        21 hrs 29 mins        █████████████████░░░░░░░░   68.43 %
+Markdown          4 hrs 51 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
+Bash              2 hrs 8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 %
+Other             1 hr 22 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+SQL               32 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
